@@ -45,7 +45,7 @@ A comprehensive web application built with Streamlit that helps you manage your 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/smart-grocery-budget-assistant.git
+   git clone https://github.com/dasha1127/smart-grocery-budget-assistant.git
    cd smart-grocery-budget-assistant
    ```
 
@@ -198,9 +198,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions, suggestions, or issues:
 
-- **Create an Issue**: Use GitHub Issues for bug reports and feature requests
-- **Discussions**: Join our GitHub Discussions for general questions
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+
+- **Email**: dashadisha1127@gmail.com
 
 ## 🌟 Show Your Support
 
